@@ -10,11 +10,11 @@ public static void main(String[] args) {
 
 			if (num % 2 == 0) { // using % operator and check if it is divisible by 2 or not.
 
-			    System.out.println(num + " is even");
+			    System.out.println(num + " is even number");
 
 			} else {
 
-			    System.out.println(num + " is odd");
+			    System.out.println(num + " is odd number");
 			}
 		}
 	}
